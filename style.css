@@ -1,0 +1,23 @@
+body {
+  text-align: center;
+}
+
+#myCanvas {
+  border: 2px solid black;
+}
+
+#cloud {
+  display: none;
+}
+
+#star {
+  display: none;
+}
+
+#cloud {
+  display: none;
+}
+
+#smoke {
+  display: none;
+}
